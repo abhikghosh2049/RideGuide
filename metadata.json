@@ -1,0 +1,5 @@
+{
+  "name": "RideGuide - Cab Comparator",
+  "description": "A chatbot interface that helps users find and compare cab prices from various ride-sharing services like Uber, Ola, and inDrive for a given pickup and drop-off location.",
+  "requestFramePermissions": []
+}
