@@ -4,7 +4,7 @@ import { RideGuideLogo } from './components/icons/RideGuideLogo';
 
 const App: React.FC = () => {
   return (
-    <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center p-4 font-sans">
+    <div className="min-h-screen bg-slate-900 text-white flex flex-col items-center justify-center p-4 font-sans">
        <div className="w-full max-w-2xl mx-auto">
         <header className="text-center mb-8 flex flex-col items-center">
           <div className="flex items-center gap-3">
